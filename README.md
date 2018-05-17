@@ -1,6 +1,6 @@
 UTS Pemrograman Web Service - Genap - 1511502153 - Pandhu Wibowo
 
-GET /categories
+GET /categories <br />
 GET /categories/id
 POST /categories
 DELETE /categories/id
